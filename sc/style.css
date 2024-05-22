@@ -47,9 +47,6 @@ nav li:nth-child(4) a{
   background: #2867B2;
 }
 nav li:nth-child(5) a{
-  background: #333;
-}
-nav li:nth-child(6) a{
   background: #ff0000;
 }
 nav li a i{
